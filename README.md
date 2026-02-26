@@ -1,88 +1,99 @@
-<!-- Animated Header -->
+<!-- BLACK BLUE TECH HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1f3c88&height=210&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=40&fontColor=00BFFF&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+<!-- TECH TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=950&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Growth+Strategist;Python+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=950&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation+Specialist;Professional+Video+Editor;SEO+%26+Digital+Systems+Strategist;Python+Automation+Engineer" />
 </p>
+
+---
+
+# 👋 About Me
+
+I am Md. Asiful Alam Khan — a multidisciplinary technology professional combining  
+**Engineering, Software Development, and Digital Strategy** to build scalable and intelligent systems.  
+My mission is to integrate hardware precision with modern software ecosystems.
 
 ---
 
 ## 👨‍💼 Professional Summary
 
-Technology-driven engineer integrating:
-
 - ⚙ Electronics & Embedded Systems  
 - 🤖 Robotics & Industrial Automation  
 - 💻 Full Stack Web Development  
-- 🎬 Professional Video Editing & Brand Media  
-- 📊 SEO, Technical Optimization & Performance Marketing  
-- 🐍 Python & Automation Systems  
-
-Focused on building intelligent systems combining hardware, software, and scalable digital infrastructure.
+- 🎬 Professional Video Editing & Creative Branding  
+- 📊 SEO & Digital Growth Optimization  
+- 🐍 Python Automation & Smart Systems  
 
 ---
 
-# 🔗 Frontend
+# 🔗 Technology Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-FRONTEND-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FRONTEND-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-FRAMEWORK-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-UTILITY-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=blue)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=blue)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
 
----
+### 🖥 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=blue)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
 
-# 🔗 Backend
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=blue)
 
-![PHP](https://img.shields.io/badge/PHP-BACKEND-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FRAMEWORK-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-SERVER-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-API-black?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-# 🔗 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-RELATIONAL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-NOSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-# 🔗 Engineering & Automation
-
-![Electronics](https://img.shields.io/badge/Electronics-Embedded%20Systems-00F5A0?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-System%20Design-8A2BE2?style=for-the-badge)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-Control%20Logic-FF8C00?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Smart%20Systems-00CED1?style=for-the-badge)
-
----
-
-# 🔗 Creative & Digital
-
-![Video Editing](https://img.shields.io/badge/Video%20Editing-Professional-red?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO-Technical%20Optimization-00BFFF?style=for-the-badge)
-![Digital Marketing](https://img.shields.io/badge/Digital%20Strategy-Growth-FF1493?style=for-the-badge)
+### ⚙ Engineering & Automation
+![Electronics](https://img.shields.io/badge/Electronics-000000?style=for-the-badge&logo=arduino&logoColor=blue)
+![Robotics](https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=raspberrypi&logoColor=blue)
+![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-000000?style=for-the-badge&logo=siemens&logoColor=blue)
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=blue"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=blue"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=blue"/>
+</a>
+
 <a href="https://wa.me/8801616458448">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=blue"/>
 </a>
-<a href="https://github.com/asifulalamkn">
-<img src="https://img.shields.io/badge/GitHub-asifulalamkn-181717?style=for-the-badge&logo=github"/>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=blue"/>
 </a>
+
 </p>
 
 ---
 
-# 📊 GitHub Analytics Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -94,11 +105,12 @@ Focused on building intelligent systems combining hardware, software, and scalab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
+<!-- TECH FOOTER -->
 <p align="center">
-<b>Engineering Precision × Software Intelligence × Strategic Execution</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1f3c88&height=150&section=footer&animation=fadeIn"/>
 </p>
