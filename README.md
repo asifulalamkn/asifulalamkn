@@ -1,26 +1,27 @@
-<!-- HEADER -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=00F5A0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">
-Electronics Engineer | Web Developer | Robotics & Industrial Automation | Professional Video Editor | SEO Strategist
-</h2>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=850&lines=Electronics+Engineer;Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Strategy+Expert;Python+Automation+Learner" />
+</p>
 
 ---
 
 ## 👨‍💼 Professional Identity
 
-Engineering-focused technologist integrating:
+Technology-driven professional combining:
 
-- ⚙ Embedded Systems & Electronics  
-- 🤖 Robotics & Industrial Automation  
-- 💻 Modern Web Development  
-- 🎬 High-End Video Editing & Brand Media  
-- 📊 SEO & Digital Growth Strategy  
-- 🐍 Python & Automation Systems  
+⚙ Electronics & Embedded Systems  
+🤖 Robotics & Industrial Automation  
+💻 Modern Web Development  
+🎬 Professional Video Editing  
+📊 SEO & Performance Marketing  
+🐍 Python & Automation Systems  
 
-I build intelligent systems that combine hardware, software, and scalable digital infrastructure.
+Building scalable systems through engineering precision and digital intelligence.
 
 ---
 
@@ -29,27 +30,19 @@ I build intelligent systems that combine hardware, software, and scalable digita
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-00F5A0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/Facebook-00F5A0?style=for-the-badge&logo=facebook&logoColor=black"/>
+<img src="https://img.shields.io/badge/Facebook-8A2BE2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@YOUR-CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-00F5A0?style=for-the-badge&logo=youtube&logoColor=black"/>
+<img src="https://img.shields.io/badge/YouTube-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/8801616458448">
-<img src="https://img.shields.io/badge/WhatsApp-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=black"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-
-<a href="https://YOUR-AMPLIPIX-SITE.com">
-<img src="https://img.shields.io/badge/Amplipix-00F5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -59,12 +52,12 @@ I build intelligent systems that combine hardware, software, and scalable digita
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -72,24 +65,24 @@ I build intelligent systems that combine hardware, software, and scalable digita
 # 👁 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifulalamkn&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=asifulalamkn&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Current Focus
 
-- Advanced Python & Automation Engineering  
-- Smart Industrial Control Systems  
-- AI Integration with Web Platforms  
-- High-Performance Scalable Digital Infrastructure  
+- Advanced Python Automation  
+- Industrial Smart Systems  
+- AI + Web Integration  
+- Scalable Digital Infrastructure  
 
 ---
 
 <p align="center">
-<b>Engineering Precision × Software Intelligence × Strategic Execution</b>
+<b>Engineering × Software × Strategy</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=120&section=footer"/>
 </p>
