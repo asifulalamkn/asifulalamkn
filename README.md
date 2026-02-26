@@ -101,8 +101,7 @@ Focused on research-driven growth and global tech impact.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=tokyonight&hide_border=true" height="170"/>
+  
 </p>
 
 <p align="center">
