@@ -1,11 +1,27 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=900&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+Strategist;Python+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=950&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Growth+Strategist;Python+Automation+Enthusiast" />
 </p>
+
+---
+
+## 👨‍💼 Professional Summary
+
+Technology-driven engineer integrating:
+
+- ⚙ Electronics & Embedded Systems  
+- 🤖 Robotics & Industrial Automation  
+- 💻 Full Stack Web Development  
+- 🎬 Professional Video Editing & Brand Media  
+- 📊 SEO, Technical Optimization & Performance Marketing  
+- 🐍 Python & Automation Systems  
+
+Focused on building intelligent systems combining hardware, software, and scalable digital infrastructure.
 
 ---
 
@@ -48,22 +64,25 @@
 # 🔗 Creative & Digital
 
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-Professional-red?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO-Optimization-00BFFF?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-Technical%20Optimization-00BFFF?style=for-the-badge)
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Strategy-Growth-FF1493?style=for-the-badge)
 
 ---
 
-# 🔗 Development Environment & Tools
+# 🌐 Connect With Me
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-Local%20Server-blue?style=for-the-badge)
-![XAMPP](https://img.shields.io/badge/XAMPP-Local%20Server-FB7A24?style=for-the-badge)
+<p align="center">
+<a href="https://wa.me/8801616458448">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://github.com/asifulalamkn">
+<img src="https://img.shields.io/badge/GitHub-asifulalamkn-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -74,8 +93,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 <p align="center">
-<b>Engineering Precision × Software Development × Digital Strategy</b>
+<b>Engineering Precision × Software Intelligence × Strategic Execution</b>
 </p>
