@@ -10,7 +10,8 @@
 
 <!-- ================= BIO ================= -->
 ## 👋 About Me
-Electronics Engineer & Digital Marketing Strategist with long-term experience in SEO, Web Development & Tech Innovation.  
+Hi,I am Asiful Alam Khan 
+I am a Electronics Engineer & Digital Marketing Strategist with long-term experience in SEO, Web Development & Tech Innovation.  
 Passionate about building scalable digital systems and AI-powered solutions for the future.  
 Focused on research-driven growth and global tech impact.
 
