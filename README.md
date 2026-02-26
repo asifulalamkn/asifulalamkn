@@ -1,110 +1,95 @@
-<!-- Premium Dynamic Banner -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:002B80,100:0055FF&height=180&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=38&fontColor=00F5A0" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0055FF&size=22&center=true&vCenter=true&width=750&lines=Electronics+Engineer;Web+Developer;Robotics+%26+Industrial+Automation+Enthusiast;Professional+Video+Editor;SEO+Strategist;Python+Developer+in+Progress" />
-</p>
+<h2 align="center">
+Electronics Engineer | Web Developer | Robotics & Industrial Automation | Professional Video Editor | SEO Strategist
+</h2>
 
 ---
 
-# 👨‍💼 Professional Identity
+## 👨‍💼 Professional Identity
 
-Technology-driven professional combining **Engineering, Software Development, Automation, and Digital Strategy**.
+Engineering-focused technologist integrating:
 
-I build systems — not just projects.
+- ⚙ Embedded Systems & Electronics  
+- 🤖 Robotics & Industrial Automation  
+- 💻 Modern Web Development  
+- 🎬 High-End Video Editing & Brand Media  
+- 📊 SEO & Digital Growth Strategy  
+- 🐍 Python & Automation Systems  
 
-From circuit boards to websites, from robotics concepts to marketing funnels —  
-my goal is to engineer scalable, intelligent, and impactful solutions.
-
----
-
-# 🧠 Engineering & Automation
-
-- Embedded Systems & Microcontrollers  
-- Robotics System Concepts  
-- Industrial Automation Fundamentals  
-- IoT & Smart System Design  
-- Control Logic & System Thinking  
+I build intelligent systems that combine hardware, software, and scalable digital infrastructure.
 
 ---
 
-# 💻 Web Development
-
-- Frontend Development (HTML, CSS, JavaScript)  
-- Responsive UI Design  
-- Performance Optimization  
-- Git & Version Control  
-- Deployment & Hosting Basics  
-
----
-
-# 🎬 Creative Technology
-
-- Professional Video Editing  
-- Promotional & Brand Content Production  
-- Visual Storytelling  
-- Digital Media Optimization  
-
----
-
-# 📊 Digital Growth Engineering
-
-- Advanced SEO Strategy  
-- Technical SEO & Backlink Systems  
-- Paid Advertising Campaign Management  
-- Data-Driven Marketing Decisions  
-
----
-
-# 🛠️ Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-002B80?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-002B80?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-002B80?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-002B80?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robotics-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industrial%20Automation-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SEO-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Video%20Editing-0055FF?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-00F5A0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://facebook.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/Facebook-00F5A0?style=for-the-badge&logo=facebook&logoColor=black"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR-CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-00F5A0?style=for-the-badge&logo=youtube&logoColor=black"/>
+</a>
+
+<a href="https://wa.me/8801616458448">
+<img src="https://img.shields.io/badge/WhatsApp-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+<a href="https://YOUR-AMPLIPIX-SITE.com">
+<img src="https://img.shields.io/badge/Amplipix-00F5A0?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-# 📈 GitHub Intelligence Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 👁 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asifulalamkn&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 Current Mission
 
-- Advancing Python & Automation  
-- Building Intelligent Web Systems  
-- Exploring AI Integration in Industrial Applications  
-- Creating High-Performance Digital Infrastructure  
-
----
-
-# 🌍 Long-Term Vision
-
-To engineer intelligent systems that combine  
-**software, automation, and digital strategy**  
-to create global-scale impact.
+- Advanced Python & Automation Engineering  
+- Smart Industrial Control Systems  
+- AI Integration with Web Platforms  
+- High-Performance Scalable Digital Infrastructure  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B80,100:0055FF&height=120&section=footer"/>
+<b>Engineering Precision × Software Intelligence × Strategic Execution</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
