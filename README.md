@@ -1,17 +1,40 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= GITHUB ANALYTICS TOP ================= -->
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=210&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asifulalamkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=950&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Strategist;Python+Automation+Enthusiast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- ================= BIO ================= -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= HEADER WITH OVERLAY ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=280&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
+</p>
+
+<p align="center" style="margin-top:-120px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Strategist;Python+Automation+Enthusiast"/>
+</p>
+
+<br><br>
+
+---
+
 ## 👋 About Me
-Hi,I am Asiful Alam Khan 
-I am a Electronics Engineer & Digital Marketing Strategist with long-term experience in SEO, Web Development & Tech Innovation.  
+
+Hi, I am Asiful Alam Khan.  
+I am an Electronics Engineer & Digital Marketing Strategist with long-term experience in SEO, Web Development & Tech Innovation.  
 Passionate about building scalable digital systems and AI-powered solutions for the future.  
 Focused on research-driven growth and global tech impact.
 
@@ -64,6 +87,7 @@ Focused on research-driven growth and global tech impact.
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://facebook.com/asifulalamkn">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
@@ -80,43 +104,16 @@ Focused on research-driven growth and global tech impact.
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/md-asiful-alam-khan-1330832b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/md-asiful-alam-khan-1330832b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-6e6e6e?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/8801616458448">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="asifulalamkn@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifulalamkn&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 <!-- ================= FOOTER ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=150&section=footer&animation=fadeIn"/>
 </p>
