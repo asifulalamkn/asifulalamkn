@@ -31,6 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -108,29 +112,6 @@ Focused on research-driven growth and global tech impact.
 <a href="https://www.linkedin.com/in/md-asiful-alam-khan-1330832b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=150&section=footer&animation=fadeIn"/>
-</p><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/asifulalamkn">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/asifulalamkn">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-asiful-alam-khan-1330832b1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </p>
 
 ---
