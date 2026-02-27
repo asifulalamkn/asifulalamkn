@@ -1,4 +1,24 @@
-<!-- ================= GITHUB ANALYTICS TOP ================= -->
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=300&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
+</p>
+
+<p align="center" style="margin-top:-140px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Strategist;Python+Automation+Enthusiast"/>
+</p>
+
+<br><br>
+
+<!-- ================= DIGITAL DIVIDER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0055FF&height=60&section=header"/>
+</p>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -14,20 +34,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-<!-- ================= HEADER WITH OVERLAY ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=280&section=header&text=Md.%20Asiful%20Alam%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
-</p>
-
-<p align="center" style="margin-top:-120px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Electronics+Engineer;Full+Stack+Web+Developer;Robotics+%26+Industrial+Automation;Professional+Video+Editor;SEO+%26+Digital+Strategist;Python+Automation+Enthusiast"/>
-</p>
-
-<br><br>
 
 ---
 
@@ -87,13 +93,34 @@ Focused on research-driven growth and global tech impact.
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://facebook.com/asifulalamkn">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@asifulalamkn">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/asifulalamkn">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/asifulalamkn">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-asiful-alam-khan-1330832b1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B80,100:0055FF&height=150&section=footer&animation=fadeIn"/>
+</p><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/asifulalamkn">
