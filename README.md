@@ -31,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalamkn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifulalamkn&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 👋 About Me
